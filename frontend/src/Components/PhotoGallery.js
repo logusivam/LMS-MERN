@@ -15,8 +15,8 @@ function PhotoGallery() {
                 <img src="https://images.pexels.com/photos/3021351/pexels-photo-3021351.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
                 <img src="https://images.pexels.com/photos/5490377/pexels-photo-5490377.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
                 <img src="https://images.pexels.com/photos/3021329/pexels-photo-3021329.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?jordan" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?Kuwait" alt=''/>
+                <img src="https://images.pexels.com/photos/3021325/pexels-photo-3021325.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
+                <img src="https://images.pexels.com/photos/3021352/pexels-photo-3021352.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
             </div>
             <button>VIEW MORE<ArrowForwardIosIcon style={{fontSize:20}}/></button>
         </div>
