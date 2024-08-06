@@ -3,7 +3,7 @@ import './Footer.css'
 
 import TwitterIcon from '@material-ui/icons/Twitter';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import TelegramIcon from '@material-ui/icons/Telegram';
+import TelegramIcon from '@material-ui/icons/YouTube';
 import InstagramIcon from '@material-ui/icons/Instagram';
 
 function Footer() {
@@ -37,7 +37,7 @@ function Footer() {
                 <div className="contact-social" >
                     <a href='https://twitter.com/logusivam26' className='social-icon'><TwitterIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
                     <a href='https://www.linkedin.com/in/loganathan26/' className='social-icon'><LinkedInIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
-                    <a href='#home' className='social-icon'><TelegramIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
+                    <a href='#home' className='social-icon'><YouTubeIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
                     <a href='#home' className='social-icon'><InstagramIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
                 </div>
             </div>
