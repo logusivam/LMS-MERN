@@ -31,8 +31,8 @@ function ImageSlider() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://images.unsplash.com/photo-1608454367599-c133fcab1245?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
-                        alt="Third slide"
+                        src="https://images.pexels.com/photos/1837726/pexels-photo-1837726.jpeg?auto=compress&cs=tinysrgb&w=400"
+                        alt="PLACE 3"
                     />
                     <Carousel.Caption>
                         <h3>PLACE 3</h3>
