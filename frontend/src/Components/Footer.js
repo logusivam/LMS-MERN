@@ -15,8 +15,8 @@ function Footer() {
                         <h1>Contact Us</h1>
                         <p>Librarian</p>
                         <p>Government School</p>
-                        <p>Visakhapatnam-530041</p>
-                        <p>Andhra Pradesh</p>
+                        <p> Chennai</p>
+                        <p>Tamil Nadu</p>
                         <p>India</p>
                         <p><b>Email:</b>example@gmail.com</p>
                     </div>
@@ -31,7 +31,7 @@ function Footer() {
                         <h1>Librarian</h1>
                         <p>Name</p>
                         <p>Education</p>
-                        <p>Contact: +91 9123456787</p>
+                        <p>Contact: +91 6385744752</p>
                     </div>
                 </div>
                 <div className="contact-social" >
