@@ -18,7 +18,7 @@ function Footer() {
                         <p> Chennai</p>
                         <p>Tamil Nadu</p>
                         <p>India</p>
-                        <p><b>Email:</b>example@gmail.com</p>
+                        <p><b>Email:</b>lsm@gmail.com</p>
                     </div>
                     <div className='usefull-links'>
                         <h1>Usefull Links</h1>
