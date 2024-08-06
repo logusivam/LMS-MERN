@@ -20,8 +20,8 @@ function ImageSlider() {
                 <Carousel.Item interval={500}>
                     <img
                         className="d-block w-100"
-                        src="https://images.unsplash.com/photo-1502136969935-8d8eef54d77b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1049&q=80"
-                        alt="Second slide"
+                        src="https://images.pexels.com/photos/1034008/pexels-photo-1034008.jpeg?auto=compress&cs=tinysrgb&w=400"
+                        alt="PLACE 2"
                     />
                     <Carousel.Caption>
                         <h3>PLACE 2</h3>
