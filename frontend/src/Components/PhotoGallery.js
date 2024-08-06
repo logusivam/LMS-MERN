@@ -7,14 +7,14 @@ function PhotoGallery() {
         <div className='photogallery-container'>
             <h1 className='photogallery-title'>Photo Gallery</h1>
             <div className="photogallery-images">
-                <img src="https://source.unsplash.com/1300x1200/?algeria" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?lebanon" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?qatar" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?uae" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?kuwait" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?oman" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?turkey" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?iran" alt=''/>
+                <img src="https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
+                <img src="https://images.pexels.com/photos/3768998/pexels-photo-3768998.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
+                <img src="https://images.pexels.com/photos/1271985/pexels-photo-1271985.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
+                <img src="https://images.pexels.com/photos/5998044/pexels-photo-5998044.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
+                <img src="https://images.pexels.com/photos/3768136/pexels-photo-3768136.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
+                <img src="https://images.pexels.com/photos/3021351/pexels-photo-3021351.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
+                <img src="https://images.pexels.com/photos/5490377/pexels-photo-5490377.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
+                <img src="https://images.pexels.com/photos/3021329/pexels-photo-3021329.jpeg?auto=compress&cs=tinysrgb&w=400" alt=''/>
                 <img src="https://source.unsplash.com/1300x1200/?jordan" alt=''/>
                 <img src="https://source.unsplash.com/1300x1200/?Kuwait" alt=''/>
             </div>
