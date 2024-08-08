@@ -14,7 +14,7 @@ function Footer() {
                     <div className="contact-details">
                         <h1>Contact Us</h1>
                         <p>Librarian</p>
-                        <p>Government School</p>
+                        <p>Government College</p>
                         <p>Chennai</p>
                         <p>Tamil Nadu</p>
                         <p>India</p>
