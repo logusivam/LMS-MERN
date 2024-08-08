@@ -25,11 +25,11 @@ function Footer() {
                         <a href='#home'>Buy Books</a>
                         <a href='#home'>Visit Store</a>
                         <a href='#home'>Prices</a>
-                        <a href='#home'>Link-1</a>
+                        <a href='#home'>Offers</a>
                     </div>
                     <div className='librarian-details'>
                         <h1>Librarian</h1>
-                        <p>Name</p>
+                        <p>Loganathan G P</p>
                         <p>Education</p>
                         <p>Contact: +91 6385744752</p>
                     </div>
