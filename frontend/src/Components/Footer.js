@@ -15,7 +15,7 @@ function Footer() {
                         <h1>Contact Us</h1>
                         <p>Librarian</p>
                         <p>Government School</p>
-                        <p> Chennai</p>
+                        <p>Chennai</p>
                         <p>Tamil Nadu</p>
                         <p>India</p>
                         <p><b>Email:</b>lsm@gmail.com</p>
