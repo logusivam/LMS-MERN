@@ -22,7 +22,7 @@ function Footer() {
                     </div>
                     <div className='usefull-links'>
                         <h1>Usefull Links</h1>
-                        <a href='#home'>Link-1</a>
+                        <a href='#home'>Buy Books</a>
                         <a href='#home'>Link-1</a>
                         <a href='#home'>Link-1</a>
                         <a href='#home'>Link-1</a>
