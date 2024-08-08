@@ -30,7 +30,7 @@ function Footer() {
                     <div className='librarian-details'>
                         <h1>Librarian</h1>
                         <p>Loganathan G P</p>
-                        <p>Education</p>
+                        <p>MCA</p>
                         <p>Contact: +91 6385744752</p>
                     </div>
                 </div>
