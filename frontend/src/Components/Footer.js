@@ -24,7 +24,7 @@ function Footer() {
                         <h1>Usefull Links</h1>
                         <a href='#home'>Buy Books</a>
                         <a href='#home'>Visit Store</a>
-                        <a href='#home'>Link-1</a>
+                        <a href='#home'>Prices</a>
                         <a href='#home'>Link-1</a>
                     </div>
                     <div className='librarian-details'>
